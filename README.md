@@ -3,13 +3,20 @@
 ## Resources
 
 - Coin Bureau Podcast
-- Blockchain Coursera Course [https://www.coursera.org/learn/blockchain-basics/home]
+    - [Coincidence of Wants](https://en.wikipedia.org/wiki/Coincidence_of_wants)
+- Blockchain Coursera Course [Buffalo](https://www.coursera.org/learn/blockchain-basics/home)
 
 ### Coin Bureau Podcast
 
 #### What is Money
 
 - 不談 Blockchain!
+- Imagine a world without money
+    - 自給自足
+    - 雞農 vs 蘿蔔
+        - 當然是要交換
+        - 多少? 怎麼換?
+        - Coincidence of Wants (1893)
 
 ### Coursera
 
