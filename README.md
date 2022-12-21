@@ -58,7 +58,7 @@
         - 值得講的動物可以再生(利息的概念)、也某種程度可以運輸、但是要再分小有困難~
         - 英文小教室
             - latin for cattle => pecus => pecuniary: 所有與錢有關的事物
-            - 鹽巴是個世界各地都有當作商品貨幣的東西
+            - 鹽巴是個世界各地都有當作商品貨幣的東西 => latin for salt => salice => salary 羅馬戰士的薪水就是鹽
 ### Coursera
 
 - Every try to "do something" on blockchain has failed
