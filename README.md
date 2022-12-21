@@ -55,10 +55,20 @@
 - 來談談早期的錢
     - commodity money, 商品貨幣 => 本身就有價值或是可以看做商品的東西
         - 蒙古有羊、漢朝用穀物、埃及駱駝(嫁妝是用駱駝在算)
-        - 值得講的動物可以再生(利息的概念)、也某種程度可以運輸、但是要再分小有困難~
-        - 英文小教室
-            - latin for cattle => pecus => pecuniary: 所有與錢有關的事物
-            - 鹽巴是個世界各地都有當作商品貨幣的東西 => latin for salt => salice => salary 羅馬戰士的薪水就是鹽
+            - 值得講的動物可以再生(利息的概念)、也某種程度可以運輸、但是要再分小有困難~
+            - latin for cattle => pecus => pecuniary: 所有與錢有關的事物            
+        - 鹽巴是個世界各地都有當作商品貨幣的東西 
+            - => latin for salt => salice => salary 羅馬戰士的薪水就是鹽
+        - Calry shell 中國用的海螺貝殼 
+            - => 學名 montary moneta => money
+        - 非洲 agry bead(玻璃製)，醫學跟玄學
+            - 歐洲到了後發現這個它們可以很便宜製造
+            - 他們沒有一次倒貨
+            - 對奴隸制度有滿大的影響
+            - 值得提的是這是一個科技在錢上的影響力的例子
+    - Rye Stone(Bitcoin 人士很愛用的例子) - 太平洋群島的 Yap 使用 => 一個石灰石(本島並不生產，要到帛琉跟關島之類的地方開採)做的大錢幣的樣子
+        - 500 公里遠的島上開採跟加工
+        - 實際不用交付，大家就是共同講好 => 現在還在通行喔~
 ### Coursera
 
 - Every try to "do something" on blockchain has failed
