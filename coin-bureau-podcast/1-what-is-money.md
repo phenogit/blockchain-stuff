@@ -72,3 +72,32 @@
             - 過度印製造成了通膨 => 1400 停用
         - 1600 英國銀行開始使用 => 存到銀行得到紙張證明
         - 1797 英國 again, 小面額
+- 科技的影響
+    - paper money 容易造假
+        - 中世紀時，造假是死刑(火燒十字架喔~~~)
+        - 18 世紀，英國針對造假貨幣的法律比其他所有刑法都多
+- 政治/國家/公權力的關係
+    - money is power => 政治會想跟錢綁在一起
+        - 鈔票上的蔣公...
+    - 公權力 back money => fiat money
+    - 往往當錢出問題的時候，公權力就出問題了
+        - 羅馬 => 凱薩大帝創了持續了 >100 年的金幣(8 gram) => Nero 帝偷工變成 <8 gram
+            - 羅馬帝國的經濟變得很不穩定
+- sound money => 最主要的本質是有扎實的 backing
+    - 貿易因為有信任就蓬勃了
+    - 銀行也蓬勃了 => 借貸等行為
+    - 中央銀行(瑞典，1668) => 因應 stockholm 銀行擠兌倒閉而建立
+        - 附帶一個名詞 fractional reserve(部分儲金制度)，bank note total > 儲備
+            - 就怕擠兌
+    - 1694 英國國家銀行 => 英皇想要買軍隊(之前軍隊被法國打趴)，錢不夠，需要借錢
+        - 英國有錢人建立了這個中央銀行，將錢借給英皇 - 此銀行的 bank note 變成英王承認，可以拿來繳稅
+        - 一樣是 fractional reserve
+    - gold standard
+        - 1717 英國採用 ~ 1914 (WWI)=> 現在其實只有 4%
+    - 戰爭基本上就中斷了扎實的 backing
+    - main drawback: hoarding money(gold)
+        - 羅斯福在經濟大蕭條時也有強制回收黃金過
+- 1971 Nixon 放棄 gold peg => fiat money 法定貨幣正式來臨
+    - 其他人 peg toward US dollar
+    - 政府說了算 => 主要是武力~XD
+    - supply of money is unchecked => unlimited debt

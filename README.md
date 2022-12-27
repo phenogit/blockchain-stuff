@@ -21,3 +21,15 @@
     2. Private
     3. Permissioned
 - ommer blocks in ethereum
+- symmetric key encryption
+    - e.g. ceasar code
+    - easy to decrypt
+    - hard to pass
+- asymmetric key pair x/X
+    - x encrypt => X decrypt
+    - X excrypt => x decrypt
+    - let's say there is John x/X, Jean y/Y
+        - John sends to Jean by x/Y encrypt
+        - Jean decrypt by X/y
+        - no 3rd party can decrypt
+- Merkel hash
