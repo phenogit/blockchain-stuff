@@ -1,0 +1,7 @@
+- Recap
+    - History of money
+        - technology, driven innovation
+    - Types of money
+        - commodity
+        - gold standard
+        - fiat(latin for let it be done), government backed money

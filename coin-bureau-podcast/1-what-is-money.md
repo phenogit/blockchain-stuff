@@ -101,3 +101,8 @@
     - 其他人 peg toward US dollar
     - 政府說了算 => 主要是武力~XD
     - supply of money is unchecked => unlimited debt
+- 1999 Clinton
+    - 投資銀行與商務銀行可以合併
+    - 次級房貸 2008 風暴
+- BitCoin~!
+    - latest technology in money
