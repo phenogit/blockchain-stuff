@@ -33,3 +33,5 @@
         - Jean decrypt by X/y
         - no 3rd party can decrypt
 - Merkel hash
+
+https://www.typingclub.com/sportal/program-16.game
