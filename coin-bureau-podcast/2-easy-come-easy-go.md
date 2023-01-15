@@ -73,7 +73,36 @@
                 - e.g. Skrill, Western Union, Wise...
                 - up to 10%
                     - 背後需要使用 banking infra
-- Card payments & E-money
-    - 10 step process
+- Card payments
+    - 10 step process, 6 people
         1. person pays
         2. shop sends info to card reader
+        3. card reader to Visa
+        4. Visa to bank for auth
+        5. bank autherize
+        6. Visa send auth to shop
+        7. shop recieve auth
+        8. card reader sent transaction to Visa
+        9. Visa & bank settle
+        10. Person statement reflect balance
+    - merchants take the charge - 1.5% ~ 3.5%
+        - interchange fee - to the bank (card issuer)
+        - assessment fee - payment network (visa, master)
+        - processing fee - complicated, the middleman between shop bank and payer bank
+        - equipment fee
+        - monthly fee
+        => 一定會轉嫁到消費者的
+- E-money
+    - still using the central banking system
+    - examples
+        - Paypal: 400 million active users (2021)
+        - Wechat Pay: 1.21 billion
+        - Alipay: 676 million
+        - PayTM: 330 million (India)
+- Unbanked
+    - 31% of population - 2.x billion people
+    - ranking 2021
+        - morroco 71%
+        - argentina 51%
+    - UK: 1.8 million people
+    
