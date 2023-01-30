@@ -104,5 +104,8 @@
     - ranking 2021
         - morroco 71%
         - argentina 51%
-    - UK: 1.8 million people
+    - UK: 1.3 million people (68 million population)
+    - infrastructure, personnel, cash ready, internet ready
+    - 最有轉匯需求的族群: >500 Billion dollars in 2020
+        - 6.83% (34+ billion dollars per year to Western Union and the like)
     
