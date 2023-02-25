@@ -1,0 +1,23 @@
+- Transact digitally without middle man
+- The technology that enables crypto
+- problems
+    - double spend
+    - locked accounts => wikileaks
+- need a method to keep people honest
+- What is blockchain? Decentralized & Immutable
+    - basically a database that is stored at multiple nodes
+        - nodes => computers running the specific blockchain's software
+            - contains full transaction history => also known as distributed ledger
+    - block: a group of transaction records
+    - chain: chain of blocks
+    - consensus: when majority of nodes agree that a block is valid and can be added to the chain
+        - 51% attack
+            - note, if it happens, the 49% is able to detect, and the value is destroyed
+            - possible risk => anarchist, government?!
+                - China => US/Central Asia
+    - immutable
+- bitcoin: design incentive and tradeoff
+    - miners: validate chain & get rewarded => block reward
+        - think of it like a lottery => paid for in computing power
+            => proof of work
+        - currently for bitcoin: every 10 mins a block is created => 6.25 bitcoin
