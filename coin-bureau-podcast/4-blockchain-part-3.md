@@ -5,3 +5,12 @@
     - database stored on every node
 - node
     - computer that is running the specific blockchain software
+- PKI, public key infrastructure
+    - user has two keys
+        - public key => basically the address
+        - private key => used to sign transaction
+    - A send bitcoin to B
+        - B needs A's public key
+        - B needs to sign the transaction with B's private key
+        - A doesn't need anything
+    - similar to banking => not 100% correct, but close enough
