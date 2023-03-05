@@ -1,0 +1,43 @@
+- nodes and miners
+    - nodes
+        - store
+        - validate
+        - enforce rules
+- transaction broadcasts to all nodes
+    - check if values are available
+        - ok => pending state
+    - transaction is grouped into blocks
+    - miners then come into play
+        - secure
+        - confirm transaction
+            - concensus => >51% agreeing the state is correct and ok to add to chain
+                - proof of work => 投票的問題，需要 skin in the game
+                    - work: block is hashed
+                    - hash: 
+                        - hypersensitive to input data
+                        - producing/verifying is cheap
+                        - hash of a transaction is added to another transaction, so on and so forth
+                            - the OG => root hash => any change will mess the root hash up
+                            - this is arranged in a "Merkel" Tree(1979)
+                                - leaves are all transactions, parents are hashed
+                    - linking of the blocks
+                        - block header: tldr of block
+                            - version of software
+                            - timestamp
+                            - root hash
+                            - preceding block's hash
+                            - target
+                            - nonce
+                                - miner use nonce + everything else to find a result lower than target
+                                    - hash(nonce + xxx) < target
+                                - this is the proof of work
+                                - achieve and get a block reward(currently 6.25, halved every 4 years or so)
+                                    - bitcoin halving
+                            - increasing difficulty
+                                - we want 10 min blocks to be stable
+                                - GPU OG, Lazlo, 10,000 BTC for two pizzas
+                                    - ASICs => 挖礦機
+                - proof of stake
+        - distribute fairly
+    - miners are nodes, nodes are not all miners
+        - miners are usually the minority
