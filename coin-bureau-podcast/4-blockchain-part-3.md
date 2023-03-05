@@ -1,0 +1,7 @@
+- rewards
+    - every transaction
+    - block reward for mining
+- blockchain
+    - database stored on every node
+- node
+    - computer that is running the specific blockchain software
