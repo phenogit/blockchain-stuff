@@ -44,5 +44,3 @@
         - high barrier of entry
     - Staking crypto to be chosen to mine(validator), e.g. buying a lottery ticket
         - misbehaving validator will be slashed
-
-51/70
