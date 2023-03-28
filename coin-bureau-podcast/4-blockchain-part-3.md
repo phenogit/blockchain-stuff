@@ -14,3 +14,35 @@
         - B needs to sign the transaction with B's private key
         - A doesn't need anything
     - similar to banking => not 100% correct, but close enough
+        - Public key is like the bank account => freely give out
+        - Private key is like your PIN
+    - Actually public key is not the address, but derived from the public key
+        - elliptic curve signature ECDSA => almost impossible to reverse engineer
+- Transaction is broadcast to all nodes
+    - transactions form blocks, blocks form chain
+    - consensus to confirm all transactions in block is valid => 51% agree
+    - changes to previous block will break everything after
+        - nickname "truth machine"
+        - in fact, much more transparent and easier to track than cash
+- Why don't we just run a bunch of nodes and takeover?
+    - theoritically possible
+    - carrot and stick
+        - proof of work to win a "lottery"
+            - started from preventing spam mail
+        - reward will be useless when corrupted
+    - Government & terrorist & crazy people
+- Blockchain Trilemma - satisfy all three?
+    - Decentralize
+    - Security
+    - Speed
+        - BTC: 7 transaction per second, TPS
+        - Visa: 65k transaction per second, TPS
+- Proof of Stake
+    - Proof of Work drawback
+        - energy
+        - speed
+        - high barrier of entry
+    - Staking crypto to be chosen to mine(validator), e.g. buying a lottery ticket
+        - misbehaving validator will be slashed
+
+51/70
