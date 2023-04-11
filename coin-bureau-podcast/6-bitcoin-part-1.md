@@ -50,5 +50,12 @@
 - close but no cigar~XD
 - 2008 financial crash
     - UK chancellor says we were 1 day away from ATM complete depletion
+- saving bank & investment bank merge
+    - previously banned due to great depression
+    - Clinton 1993? lifted the ban
+    - hybrid banks => increasingly complicated financial products
+        - mortgage as security => crazy approval of mortgages => 次級房貸
+    - buy out for 85b AIG alone
+        - no one was punished => trust is collapsed
 
-42
+51
