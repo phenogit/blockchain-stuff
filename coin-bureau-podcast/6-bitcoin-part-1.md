@@ -1,1 +1,54 @@
-1/70
+- 540 billion 金融風暴政府紓困
+- 很多地下英雄讓 bitcoin 成功
+- 快速 review - what is bitcoin
+    - digital cash
+    - peerless, peer-to-peer
+        - can't be copied
+        - confident that exchanges are unique
+    - not anonymously
+- digicash(1989) - early bitcoin forerunner
+    - 1980s
+    - in the past, bank dependant ATM - e.g. 郵局
+        - mid 90s cross bank - 感謝讚美主
+        - but...privacy concern
+    - David Chom computer scientist was concerned
+        - encryption in email
+        - you don't have anything to hide, but you still want privacy
+        - 1989 digicash
+    - cryptography cash
+        - 本來挺有看頭
+        - 1990s internet 崛起
+            - online business - ecommerce - 補足了 banking 不足
+    - visa, and major banks as partner
+    - 10+ years
+    - many reasons for failure
+        - management
+        - bank sabotage
+        - still centralized
+- e-gold(1996) - gold transaction
+    - 2008 used mostly by criminal
+    - 2009 shut down
+- cipherpunks (1992)
+    - first group meeting details unknown, kind of like agile
+    - a group of nerds concerned with security, privacy, and future of computer science
+        - actually 1970s 就有跡象
+    - increasing concern of government invading privacy via internet
+        - wiki leaks
+    - they believe cryptography is the answer
+    - established cipherpunks anonymous mail group
+        - not just anonymous money, but a major item
+- Hash-Cash 1997 Adam Back
+    - crypto email proof of work
+        - rewarded with hash-cash
+        - make spam mail expensive
+        - single person use
+    - Hal Finney made changes to allow reuse
+- Wei Dai 1998 B-money(concept)
+    - ledger, all transaction available
+- Nick Sabo 2005, Bitgold(concept)
+    - very similar to bitcoin => might be satoshi nakamoto
+- close but no cigar~XD
+- 2008 financial crash
+    - UK chancellor says we were 1 day away from ATM complete depletion
+
+42
