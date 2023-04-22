@@ -57,5 +57,18 @@
         - mortgage as security => crazy approval of mortgages => 次級房貸
     - buy out for 85b AIG alone
         - no one was punished => trust is collapsed
+- satoshi nakamoto
+    - 2008 cypherpunk mail group sizzled down => got too dense
+    - cryptography mail group was formed
+        - 2008 Adam got a mail from Satoshi to read a proposal => bitcoin
+    - 2008 september => bitcoin whitepaper (right after another 450b bail out)
+        - relatively very detailed as an whitepaper
+        - nothing happened => a week passed and 2 replied
+            - hackable
+            - unscalable
+        - Genesis block => 50 BTC to Sabo?
+        - Hal Finney the only positive person
+            - Node #2
+            - Satoshi => 10 BTC to Hal
+            - Turned it off after a few days, fear of damaging the PC
 
-51
