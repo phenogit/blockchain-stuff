@@ -1,0 +1,40 @@
+- was not well received starting off
+    - Hal Finney 
+        - 1956, Cal tech
+        - designed video games
+        - got interested in cryptography => PGP(pretty good privacy) with Phil Zimmerman => a crypto messenger
+            - US government classified it into a weapon! export banned
+            - Phil published the code as a book to export
+        - Hash Cash
+        - First to receive BTC
+        - 2014 passed away, ALS
+    - Marty Malmod?
+        - amateur coder
+        - bitcoin enthusiast
+        - bitcoin website => move toward mass adoption
+        - bitcoin logo
+        - mined 55k BTC
+        - received the farewell letter from Satoshi
+        - first person to receive USD for BTC => 5 USD for 5k BTC
+        - publicize is important => makes the network secure and decentralized
+- starting out, bitcoin circle was very supportive and generous => led to adoption
+    - Laslo Hanyak?
+        - didn't HODL
+            - white hat hacker
+            - bought >50k in pizzas
+        - graphic card starter (2010)
+        - pizza guy
+            - 10k BTC for a pizza
+            - Jeremy Perpident (40USD of Papa John Pizza)
+                - road trip with girlfriend
+        - started a arms race
+    - Gavin Andreeson
+        - 3rd person to update Bitcoin code
+        - Bitcoin faucet => 5 BTC per click
+        - gave away 50k BTC, for adoption
+        - politically neutral => this is actually something related to the adoption => currently very liberal-leaning
+        - Bitcoin cash founder?
+    - Craig Wright
+- crypto is trustless => but it needed the trust/selfless pioneers to kick it off
+
+70
